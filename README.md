@@ -1,5 +1,4 @@
-# Udo-Bassey
-Newbie
+
 Full Name: Udo Bassey Nkereuwem
 E-mail Address: basseynk2@gmail.com
 Slack username: Udo Basset
